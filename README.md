@@ -15,7 +15,7 @@ Run
 
 ```
 $ cd build
-$ cling -std=c++14 -I../re
+$ cling -std=c++14 -I../re2
 ****************** CLING ******************
 * Type C++ code and press enter to run it *
 *             Type .q to exit             *
